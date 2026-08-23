@@ -21,6 +21,7 @@ The module is powered by an Raspberry Pi Pico 2W which executes a scheduler. The
   - soldering iron
   - 3D printer
   - motivation and a little bit of money :-)
+
 **Required Products**  
   - 1x Raspberry Pi Pico 2W
   - 2x through-hole 01x20 female pin sockets
