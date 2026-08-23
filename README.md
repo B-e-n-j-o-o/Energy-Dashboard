@@ -26,9 +26,10 @@ The module is powered by an Raspberry Pi Pico 2W which executes a scheduler. The
   - 1x Raspberry Pi Pico 2W
   - 2x through-hole 01x20 female pin sockets
   - 1x Waveshare's LCD1602 RGB Module
-  - 1x photoresitor
+  - 1x photoresistor
   - 1x DS18B20 temperature sensor
-  - 4x M3 40mm screws + srew-nuts
+  - 4x M3 40mm screws + screw-nuts
   - 1x PCB (I purchased it on JLCPCB) (gerber files coming soon)
-  - 1x 3D printed case (three parts)
+  - 1x 3D printed case (.stl files on [Onshape](https://cad.onshape.com/documents/fe910dcf5090e09b129dc4b0/w/445839dbb3f75b7a6e49436a/e/11c19a83d04b76eda0bfc8fb?renderMode=0&uiState=6a8b52e7040663373746c148))
+
 The assembly will be self-explanatory from the pictures (coming soon)... Good luck :-) 
