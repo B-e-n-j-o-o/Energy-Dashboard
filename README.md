@@ -11,9 +11,12 @@
   1. electricity produced by the photovoltaic system 
   2. electricity consumed by the household
   3. current weather
+   ```
+   SUN   ☀️: direct solar radiation > threshold (preset: 5 W/m² => threshold can be set in config.py)
+   CLOUD ☁️: direct solar radiation <= threshold 
+   ``` 
 
-         SUN   ☀️: direct solar radiation > threshold (preset: 5 W/m² => threshold can be set in config.py)
-         CLOUD ☁️: direct solar radiation <= threshold 
+  
       
   5. forecast change: predicted time until the weather changes (e.g "☀️ 3h" means: the direct solar radiation is under the threshold value in 3h). This helps you to estimate how long your PV system is producing electricity.
   6. battery level
