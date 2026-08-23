@@ -14,12 +14,9 @@
    ```
    SUN   ☀️: direct solar radiation > threshold (preset: 5 W/m² => threshold can be set in config.py)
    CLOUD ☁️: direct solar radiation <= threshold 
-   ``` 
-
-  
-      
+   ```  
   5. forecast change: predicted time until the weather changes (e.g "☀️ 3h" means: the direct solar radiation is under the threshold value in 3h). This helps you to estimate how long your PV system is producing electricity.
-  6. battery level
+  6. battery level 🔋
   7. outdoor temperature
   8. indoor temperatur
   9. todays maximum outdoor temperature
