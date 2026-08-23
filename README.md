@@ -1,18 +1,22 @@
 # Energy-Dashboard
-   A display that shows your household’s energy data, the weather forecast and the temperature. The dynamic backlight...
+   A display that visualizes your household’s and photovoltaic's energy data, weather forecast and temperature. The dynamic backlight...
    
       GREEN 🟢: PV Production > household's consumption 
       BLUE  🔵: PV Production < household's consumption 
       RED   🔴: battery fuse blown
       
-   ...allows you to adjust your energy consumption to save electricity. If you regularly struggle with battery failures caused by blown fuses (as I and my father do), the backlight allows you to react quickly. This module helps you manage your household more sustainably and, as a result, save on your electricity costs. 
-
+   ...allows you to adjust your energy consumption in real time (cooking, do the laundry). This module helps you manage your household more sustainably and, as a result, save on your electricity costs. Additionally, if you regularly struggle with battery failures caused by blown fuses of the battery system (as I and my father do), the backlight allows you to react quickly. 
+   
 ## Displayed data 
-  1. electricity production of the photovoltaic system 
-  2. electricity consumption of the household
-  3. icon (☀️ or ☁️) displays the current weather (determined via direct solar radiation in W/m² => threshold can be set in config.py)
-  4. forecast change: predicted time until the weather changes (e.g "☀️ 3h" means: the direct solar radiation is under the threshold value in 3h). This helps you to estimate how long your PV system is producing electricity.
-  5. battery level
+  1. electricity produced by the photovoltaic system 
+  2. electricity consumed by the household
+  3. current weather
+
+         SUN   ☀️: direct solar radiation > threshold (preset: 5 W/m² => threshold can be set in config.py)
+         CLOUD ☁️: direct solar radiation <= threshold 
+      
+  5. forecast change: predicted time until the weather changes (e.g "☀️ 3h" means: the direct solar radiation is under the threshold value in 3h). This helps you to estimate how long your PV system is producing electricity.
+  6. battery level
   7. outdoor temperature
   8. indoor temperatur
   9. todays maximum outdoor temperature
