@@ -4,16 +4,16 @@
 # Displayed data 
   1. electricity production of the photovoltaic system 
   2. electricity consumption of the household
-  3. current weather: icon (SUN or CLOUD) displays the current weather (determined via direct solar radiation in W/m^2 => threshold can be set in config.py)
+  3. current weather: icon (SUN or CLOUD) displays the current weather (determined via direct solar radiation in W/m² => threshold can be set in config.py)
   4. forecast change: predicted time until the weather changes (e.g "☀️ 3h" means: in 3h is the direct solar radiation under the threshold value). This helps you to estimate how long the PV system is producing electricity or when it starts.
   5. battery level
-  7. outdoor temperatur
+  7. outdoor temperature
   8. indoor temperatur
-  9. todays maximum outdoor temperatur
-  10. todays minimum outdoor temperatur
+  9. todays maximum outdoor temperature
+  10. todays minimum outdoor temperature
 Press the button to switch between the two pages. 
 # Underlying Technology  
-The module is powered by an Raspberry Pi Pico 2W which executes a scheduler. The household's energy data is retrieved via Modbus TCP from the Sungrow communication module WiNet-S. Except the indoor temperature the weather related date is requested from the free Weather API (Open-Meteo)[https://open-meteo.com/]. 
+The module is powered by an Raspberry Pi Pico 2W which executes a scheduler. The household's energy data is retrieved via Modbus TCP from the Sungrow communication module WiNet-S. Except the indoor temperature the weather related date is requested from the free Weather API [Open-Meteo](https://open-meteo.com/). 
 
 
 # If you want one - build it
@@ -25,9 +25,9 @@ The module is powered by an Raspberry Pi Pico 2W which executes a scheduler. The
   - 1x Raspberry Pi Pico 2W
   - 2x through-hole 01x20 female pin sockets
   - 1x Waveshare's LCD1602 RGB Module
-  - 1x Photoresitor
+  - 1x photoresitor
   - 1x DS18B20 temperature sensor
-  - 4x M3 40mm srews + srew-nuts
+  - 4x M3 40mm screws + srew-nuts
   - 1x PCB (I purchased it on JLCPCB) (gerber files coming soon)
   - 1x 3D printed case (three parts)
 The assembly will be self-explanatory from the pictures (coming soon)... Good luck :-) 
