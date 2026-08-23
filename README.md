@@ -37,6 +37,7 @@ The module is powered by an Raspberry Pi Pico 2W which executes a task scheduler
   - 1x Raspberry Pi Pico 2W
   - 2x through-hole 01x20 female pin sockets
   - 1x Waveshare's LCD1602 RGB Module
+  - 1x 01x04 2.54mm screw terminal
   - 1x photoresistor
   - 1x DS18B20 temperature sensor
   - 4x M3 40mm screws + screw-nuts
