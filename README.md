@@ -40,7 +40,7 @@ The physical assembly will be self-explanatory from the pictures (coming soon)..
 Download the micropython files from the src folder (coming soon) and upload them to the Pi Pico using the Thonny IDE (click [here](https://www.instructables.com/Uploading-Code-With-Thonny/) for a tutorial). 
 
 # Build Intentions
-This display was build at my fathers request. He asked for a device that provides all essential information at a glance, without having to log in to a cell phone or an app. Since I'm not near a professional software developer don't use this code unless you have checked it yourself. 
+This display was build at my fathers request. He asked for a device that provides all essential information at a glance, without having to log in to a cell phone or an app.
 
 For this project, I exclusively used AI as a programming tutor and for web search. I assume it's crucial to understand underlying concepts before you can become a better (vibe-)programmer that can use AI on a larger scale responsibly. 
 
