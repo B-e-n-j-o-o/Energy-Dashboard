@@ -1,10 +1,10 @@
 # Energy-Dashboard
    A display that visualizes your household’s and photovoltaic's energy data, weather forecast and temperature. The dynamic backlight...
-   
-      GREEN 🟢: PV Production > household's consumption 
-      BLUE  🔵: PV Production < household's consumption 
-      RED   🔴: battery fuse blown
-      
+   ```
+   GREEN 🟢: PV Production > household's consumption 
+   BLUE  🔵: PV Production < household's consumption 
+   RED   🔴: battery fuse blown
+   ```
    ...allows you to adjust your energy consumption in real time (cooking, do the laundry). This module helps you manage your household more sustainably and, as a result, save on your electricity costs. Additionally, if you regularly struggle with battery failures caused by blown fuses of the battery system (as I and my father do), the backlight allows you to react quickly. 
    
 ## Displayed data 
