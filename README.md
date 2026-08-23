@@ -13,7 +13,7 @@
   10. todays minimum outdoor temperatur
 Press the button to switch between the two pages. 
 # Underlying Technology  
-The module is powered by an Raspberry Pi Pico 2W which executes a scheduler. The household's energy data is retrieved via Modbus TCP from the Sungrow communication module WiNet-S. Except the indoor temperature the weather related date is requested from the free Weather API ((Open-Meteo)[https://open-meteo.com/]). 
+The module is powered by an Raspberry Pi Pico 2W which executes a scheduler. The household's energy data is retrieved via Modbus TCP from the Sungrow communication module WiNet-S. Except the indoor temperature the weather related date is requested from the free Weather API (Open-Meteo)[https://open-meteo.com/]. 
 
 
 # If you want one - build it
