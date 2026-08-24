@@ -44,7 +44,7 @@ The module is powered by an Raspberry Pi Pico 2W which executes a task scheduler
   - 1x right angled tactile switch
   - 1x 4.7kOhm resistor
   - 1x 10kOhm resistor
-  - 5V charger (I used [used](https://www.reichelt.de/de/de/shop/produkt/usb-ladegeraet_5_v_1000_ma_schwarz-265655?PROVID=2788&gad_source=1&gad_campaignid=22928726796&gbraid=0AAAAADwnxtZnh3-1UR7DXjAUy7nddLCof&gclid=Cj0KCQjw16_UBhCqARIsAIdOaXzwlEhhc0JJB4dAb9ZNwQYntP2tw92i7wnbfOGvte9R4P0LPM9kFBsaAvdSEALw_wcB))
+  - 5V charger (I used [this](https://www.reichelt.de/de/de/shop/produkt/usb-ladegeraet_5_v_1000_ma_schwarz-265655?PROVID=2788&gad_source=1&gad_campaignid=22928726796&gbraid=0AAAAADwnxtZnh3-1UR7DXjAUy7nddLCof&gclid=Cj0KCQjw16_UBhCqARIsAIdOaXzwlEhhc0JJB4dAb9ZNwQYntP2tw92i7wnbfOGvte9R4P0LPM9kFBsaAvdSEALw_wcB))
   - charging cable
   - 1x custom PCB (I purchased it on JLCPCB) (gerber files coming soon)
   - 1x custom 3D printed case ([3D files](https://github.com/B-e-n-j-o-o/Energy-Dashboard/3d_files))
