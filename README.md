@@ -45,7 +45,8 @@ The module is powered by an Raspberry Pi Pico 2W which executes a task scheduler
   - 1x custom PCB (I purchased it on JLCPCB) (gerber files coming soon)
   - 1x custom 3D printed case ([3D files](https://github.com/B-e-n-j-o-o/Energy-Dashboard/3d_files))
 
-The physical assembly will be self-explanatory from the pictures (coming soon)... Good luck :-) 
+The physical assembly will be self-explanatory from the pictures... Good luck :-) 
+![alt text](https://github.com/B-e-n-j-o-o/Energy-Dashboard/blob/main/pictures/3D_Model.png)
 
 **Software:** Download the micropython files from the src folder (coming soon) and upload them to the Pi Pico using the Thonny IDE (click [here](https://www.instructables.com/Uploading-Code-With-Thonny/) for a tutorial). 
 
