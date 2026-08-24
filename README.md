@@ -7,7 +7,7 @@
    ```
    ...allows you to adjust your energy consumption in real time (cooking, do the laundry). This module helps you manage your household more sustainably and, as a result, save on your electricity costs. Additionally, if you regularly struggle with battery failures caused by blown fuses of the battery system (as I and my father do), the backlight allows you to react quickly. 
    
-# Displayed data 
+## Displayed data and functionality 
   1. electricity produced by the photovoltaic system 
   2. electricity consumed by the household
   3. current weather
@@ -24,10 +24,10 @@
 
 Press the button to switch between the two pages. The photoresistor is used for dynamically adjusting the brightness of the backlight to the room brightness. 
 
-# Underlying Technology  
+## Underlying Technology  
 The module is powered by an Raspberry Pi Pico 2W which executes a task scheduler. The household's energy data is retrieved via Modbus TCP from the Sungrow communication module WiNet-S. Except the indoor temperature (detected with a Temperature Sensor) the weather related date is requested from the free Weather API [Open-Meteo](https://open-meteo.com/). 
 
-# If you want one - build it
+## If you want one - build it
 **Required Tools:**
   - soldering iron
   - 3D printer
@@ -49,7 +49,7 @@ The physical assembly will be self-explanatory from the pictures (coming soon)..
 
 **Software:**Download the micropython files from the src folder (coming soon) and upload them to the Pi Pico using the Thonny IDE (click [here](https://www.instructables.com/Uploading-Code-With-Thonny/) for a tutorial). 
 
-# Build Intentions
+## Build Intentions
 This display was build at my fathers request. He asked for a device that provides all essential information at a glance, without having to log in to a cell phone or an app.
 
 For this project, I exclusively used AI as a programming tutor and for web search. I assume it's crucial to understand underlying concepts before you can become a better (vibe-)programmer that can use AI on a larger scale responsibly. 
