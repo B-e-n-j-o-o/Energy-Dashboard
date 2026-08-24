@@ -47,7 +47,8 @@ The module is powered by an Raspberry Pi Pico 2W which executes a task scheduler
 
 The physical assembly will be self-explanatory from the pictures... Good luck :-) 
 ![alt text](https://github.com/B-e-n-j-o-o/Energy-Dashboard/blob/main/pictures/3D_Model.png)
-
+![alt text](https://github.com/B-e-n-j-o-o/Energy-Dashboard/blob/main/pictures/PCB%20Front.jpeg)
+![alt text](https://github.com/B-e-n-j-o-o/Energy-Dashboard/blob/main/pictures/PCB%20Back.jpeg)
 **Software:** Download the micropython files from the src folder (coming soon) and upload them to the Pi Pico using the Thonny IDE (click [here](https://www.instructables.com/Uploading-Code-With-Thonny/) for a tutorial). 
 
 ## Build Intentions
