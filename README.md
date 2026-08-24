@@ -42,6 +42,8 @@ The module is powered by an Raspberry Pi Pico 2W which executes a task scheduler
   - 1x DS18B20 temperature sensor
   - 4x M3 40mm screws + screw-nuts
   - 1x right angled tactile switch
+  - 1x 4.7kOhm resistor
+  - 1x 10kOhm resistor
   - 1x custom PCB (I purchased it on JLCPCB) (gerber files coming soon)
   - 1x custom 3D printed case ([3D files](https://github.com/B-e-n-j-o-o/Energy-Dashboard/3d_files))
 
