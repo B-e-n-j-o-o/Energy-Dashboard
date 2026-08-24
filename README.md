@@ -43,7 +43,7 @@ The module is powered by an Raspberry Pi Pico 2W which executes a task scheduler
   - 4x M3 40mm screws + screw-nuts
   - 1x right angled tactile switch
   - 1x custom PCB (I purchased it on JLCPCB) (gerber files coming soon)
-  - 1x custom 3D printed case (get files [here](https://github.com/B-e-n-j-o-o/Energy-Dashboard/3d_files) or on [https://cad.onshape.com/documents/fe910dcf5090e09b129dc4b0/w/445839dbb3f75b7a6e49436a/e/11c19a83d04b76eda0bfc8fb?renderMode=0&uiState=6a8c33116e50d7d080d090d0](https://cad.onshape.com/documents/fe910dcf5090e09b129dc4b0/w/445839dbb3f75b7a6e49436a/e/11c19a83d04b76eda0bfc8fb?renderMode=0&uiState=6a8c321c6e50d7d080d082aa))
+  - 1x custom 3D printed case ([3D files](https://github.com/B-e-n-j-o-o/Energy-Dashboard/3d_files))
 
 The physical assembly will be self-explanatory from the pictures (coming soon)... Good luck :-) 
 
