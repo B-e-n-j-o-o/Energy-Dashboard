@@ -52,6 +52,6 @@ The physical assembly will be self-explanatory from the pictures (coming soon)..
 ## Build Intentions
 This display was build at my fathers request. He asked for a device that provides all essential information at a glance, without having to log in to a cell phone or an app.
 
-For this project, I exclusively used AI as a programming tutor and for web search. I assume it's crucial to understand underlying concepts before you can become a better (vibe-)programmer that can use AI on a larger scale responsibly. 
+For this project, I exclusively used AI as a programming tutor and for web search. I'm still learning and I want to understand the underlying concepts before employing AI on a larger scale. 
 
-Since I'm not near a professional software developer don't use this code unless you have checked it yourself. 
+Since I'm not a professional software developer, please use my code with caution and check it yourself.
