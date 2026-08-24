@@ -47,7 +47,7 @@ The module is powered by an Raspberry Pi Pico 2W which executes a task scheduler
 
 The physical assembly will be self-explanatory from the pictures (coming soon)... Good luck :-) 
 
-**Software:**Download the micropython files from the src folder (coming soon) and upload them to the Pi Pico using the Thonny IDE (click [here](https://www.instructables.com/Uploading-Code-With-Thonny/) for a tutorial). 
+**Software:** Download the micropython files from the src folder (coming soon) and upload them to the Pi Pico using the Thonny IDE (click [here](https://www.instructables.com/Uploading-Code-With-Thonny/) for a tutorial). 
 
 ## Build Intentions
 This display was build at my fathers request. He asked for a device that provides all essential information at a glance, without having to log in to a cell phone or an app.
